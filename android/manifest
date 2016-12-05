@@ -2,8 +2,8 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.7
-apiversion: 2
+version: 2.1
+apiversion: 3
 description: GIF animations for Android
 author: Michael Gangolf
 license: Apache License, Version 2.0
@@ -16,5 +16,5 @@ moduleid: com.miga.gifview
 respackage: com.felipecsl.gifimageview
 guid: 408af1b8-2443-4e3f-ad9a-ae51ba0c7f20
 platform: android
-minsdk: 5.1.2.GA
-architectures: armeabi armeabi-v7a x86
+minsdk: 6.0.0.GA
+architectures: armeabi-v7a x86
